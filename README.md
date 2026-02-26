@@ -2,7 +2,7 @@
 
 # 📊 Análisis Estadístico
 
-Repositorio dedicado a la aplicación práctica de métodos estadísticos en Ciencia de Datos, con enfoque en análisis exploratorio, pruebas de hipótesis, modelado y casos aplicados con datos reales.
+Ejercicio dedicado a la aplicación práctica de métodos estadísticos con enfoque en análisis exploratorio, pruebas de hipótesis, modelado y casos aplicados con datos reales.
 
 Este espacio reúne implementaciones en Python orientadas a comprender cómo la estadística fundamenta el Machine Learning y la toma de decisiones basada en datos.
 
@@ -12,7 +12,7 @@ Este espacio reúne implementaciones en Python orientadas a comprender cómo la 
 
 * Aplicar métodos estadísticos clásicos en contextos reales.
 * Documentar paso a paso análisis reproducibles.
-* Integrar teoría estadística con implementación en Python y R.
+* Integrar teoría estadística con implementación en Python.
 * Servir como portafolio técnico en Estadística y Data Science.
 
 ---
@@ -34,7 +34,6 @@ Este espacio reúne implementaciones en Python orientadas a comprender cómo la 
 ## 🛠️ Tecnologías Utilizadas
 
 * Python
-* R
 
 ---
 
